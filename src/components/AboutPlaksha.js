@@ -28,7 +28,7 @@ export default function AboutPlaksha() {
           <div className="flex flex-col items-center space-y-1">
             <BookOpen size={40} stroke={colors.antiqueGold} strokeWidth={1.5} />
             <span className="text-xl font-serif font-semibold" style={{ color: colors.maroon }}>
-              3
+              4
             </span>
             <span className="text-xs italic" style={{ color: colors.poetryBrown }}>
               Collections
@@ -39,7 +39,7 @@ export default function AboutPlaksha() {
           <div className="flex flex-col items-center space-y-1">
             <Pen size={40} stroke={colors.antiqueGold} strokeWidth={1.5} />
             <span className="text-xl font-serif font-semibold" style={{ color: colors.maroon }}>
-              50+
+              12
             </span>
             <span className="text-xs italic" style={{ color: colors.poetryBrown }}>
               Poems
@@ -50,7 +50,7 @@ export default function AboutPlaksha() {
           <div className="flex flex-col items-center space-y-1">
             <Heart size={40} stroke={colors.antiqueGold} strokeWidth={1.5} />
             <span className="text-xl font-serif font-semibold" style={{ color: colors.maroon }}>
-              1K+
+              100+
             </span>
             <span className="text-xs italic" style={{ color: colors.poetryBrown }}>
               Readers
